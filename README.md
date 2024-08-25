@@ -24,7 +24,7 @@
 
 ### Live Link
 
-[Visit the live application](https://zedd-weather.vercel.app)
+[Visit the live application](https://weather-app-prakyath.vercel.app/)
 
 ### Support
 
